@@ -1,0 +1,11 @@
+.hero-title {
+  color: rgb(11, 27, 22);
+  background-color: aquamarine;
+  font-size: medium;
+}
+
+.hero-btn {
+  color: blueviolet;
+  background-color: cadetblue;
+  font-size: large;
+}

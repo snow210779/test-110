@@ -1,0 +1,10 @@
+.ftr-list {
+  display: inline-flex;
+  padding: 56px 0;
+  gap: 20px;
+}
+
+.ftr-item {
+  color: red;
+  font-size: x-large;
+}
