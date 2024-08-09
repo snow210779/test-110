@@ -1,11 +1,11 @@
 {
-  "name": "test-110",
+  "name": "vanilla-app-template",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/test-110/",
+    "build": "vite build --base=/Project-2/",
     "preview": "vite preview"
   },
   "devDependencies": {
